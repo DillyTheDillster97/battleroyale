@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/freeman/ammobox_bullets_diffuse"	
+	"$halflambert" "0"
+	"$phong" "1"
+	"$phongboost" "0.3"
+	"$phongexponent" "3"
+	"$phongtint" "[0 0 0]"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[2.0 0.5 0.05]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "0.4"
+
+	"$ambientocclusion" "1"
+	"$diffuseexp" "1"
+
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" "1"
+	$envmaptint "[.4 .4 .4]"
+	"$BasemapAlphaPhongMask" "1"
+
+
+
+
+}

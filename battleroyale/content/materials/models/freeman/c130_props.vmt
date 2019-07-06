@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/freeman/c130_props_diffuse"	
+	"$nocull" "1"
+	"$translucent" "1"
+}

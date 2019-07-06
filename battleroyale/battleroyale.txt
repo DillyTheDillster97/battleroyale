@@ -1,0 +1,5 @@
+"battleroyale"
+{
+	"title"		"Battle Royale"
+	"base"		"base"
+}
